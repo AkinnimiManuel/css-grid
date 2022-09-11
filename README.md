@@ -21,5 +21,5 @@ Users should be able to:
 - CSS Grid
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/AkinnimiManuel)
+- Frontend Mentor - [@AkinnimiManuel](https://www.frontendmentor.io/profile/AkinnimiManuel)
 - Twitter - [@EMMYLASH_TINS](https://www.twitter.com/EMMYLASH_TINS)
